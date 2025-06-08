@@ -1,0 +1,10 @@
+# filepath: .gitignore
+hbenv/
+*.dll
+*.lib
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
